@@ -1,84 +1,116 @@
-# Davi Castaldini
+# 👋 Davi Castaldini
 
-Desenvolvedor com foco em **back-end, automação e dados**, mas com **olho clínico para UI/UX**.
-Gosto de sistema que funciona **e** de interface que não dá vergonha de mostrar.
-
----
-
-## O que eu faço
-
-- Construo **back-ends sólidos** (regra de negócio, dados, integrações)
-- Crio **front-ends bem pensados**, limpos e funcionais
-- Automatizo processos reais (menos cliques, menos erro humano)
-- Subo e mantenho aplicações em **ambiente de produção de verdade**
+💻 Desenvolvedor focado em **produto, automação e sistemas reais**, com forte interesse em **UI/UX bem feita**.  
+Gosto de código que funciona **e** de interface que dá gosto de usar.
 
 ---
 
-## Stack principal
+## 🚀 O que eu faço
 
-### Back-end
-- **Laravel**  
-  APIs, CRMs, sistemas internos, jobs, filas, integrações
-- **Python**  
-  Automações, dados, scripts, IA quando faz sentido
+- Construo **back-ends sólidos** e bem estruturados  
+- Desenvolvo **front-ends modernos, limpos e funcionais**
+- Automatizo processos com **n8n** e integrações inteligentes
+- Trabalho com **dados, APIs e infraestrutura**
+- Aplico **IA** de forma prática (automação, agentes, análise, suporte a produto)
 
-### Front-end
+Nada de projeto fake. Coisa que roda em produção.
+
+---
+
+## 🧠 Stack & Ferramentas
+
+### 🎨 Front-end / UI
 - **Vue.js**
-- Interfaces administrativas, dashboards e painéis internos
+- Interfaces administrativas, dashboards e painéis
 - Foco em:
   - hierarquia visual
-  - legibilidade
-  - fluxo do usuário
-  - consistência visual
+  - clareza
+  - fluidez
+  - experiência real do usuário
 
-UI bonita, mas **usável**.
+> UI bonita não é detalhe.  
+> É performance humana.
 
-### Dados
+---
+
+### 🧩 Back-end
+- **Laravel (PHP)**
+  - APIs
+  - CRMs
+  - sistemas internos
+  - regras de negócio
+  - filas e jobs
+- **Python**
+  - automações
+  - scripts
+  - dados
+  - integração com IA
+
+---
+
+### 🤖 Automação & IA
+- **n8n** (orquestração de fluxos)
+- Webhooks
+- Integrações entre sistemas, CRMs e WhatsApp
+- Uso de **IA/LLMs** para:
+  - automação de processos
+  - agentes internos
+  - apoio a decisões
+  - produtividade operacional
+
+IA como ferramenta.  
+Não como buzzword.
+
+---
+
+### 📊 Dados
 - **PostgreSQL**
-- SQL na veia
-- Estruturação de dados para dashboards e métricas
+- SQL de verdade
+- Estruturação de dados para:
+  - dashboards
+  - métricas
+  - relatórios operacionais
 
-### Infraestrutura
+---
+
+### 🧱 Infraestrutura
 - **Linux**
 - **Docker / Docker Swarm**
 - VPS própria
-- Deploy controlado (entender o que está rodando > apertar botão)
+- Deploy controlado
+- Logs, redes, volumes e variáveis bem definidos
+
+Prefiro entender o stack  
+do que depender de botão mágico.
 
 ---
 
-## Automação e integrações
+## 🧠 Como eu penso produto
 
-- **n8n**
-- Webhooks
-- Integrações entre sistemas, CRMs, WhatsApp e APIs externas
-- Automação pensada como **parte do produto**, não gambiarra
+- Código sustenta o sistema  
+- UI sustenta o usuário  
+- UX ruim vira problema operacional  
+- Automação boa vira vantagem competitiva  
 
----
-
-## Como eu penso produto e UI
-
-- Interface não é decoração, é **ferramenta**
-- Front-end precisa guiar o usuário, não confundir
-- Bom design reduz erro, retrabalho e suporte
-- UX ruim vira problema operacional
+Produto bom é equilíbrio entre **engenharia e experiência**.
 
 ---
 
-## Projetos
+## 🧪 Projetos e contexto
 
-- CRMs internos
+- CRMs e sistemas internos
 - Dashboards operacionais
 - Bots e automações
-- Sistemas financeiros e administrativos
+- Produtos digitais com foco em processo, dados e escala
 
 ---
 
-## Contato
+## 📫 Contato
 
-📱 WhatsApp: (16) 98192-9199  
+📱 **WhatsApp:** (16) 98192-9199  
 
 ---
 
-> Código sustenta.  
-> Interface convence.  
-> Produto bom precisa dos dois.
+✨ *Build things that work.  
+Make them look good.  
+Automate what can be automated.*
