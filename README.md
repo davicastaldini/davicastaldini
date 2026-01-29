@@ -1,116 +1,107 @@
-# 👋 Davi Castaldini
+# 👋 Hey, I’m Davi Castaldini
 
-💻 Desenvolvedor focado em **produto, automação e sistemas reais**, com forte interesse em **UI/UX bem feita**.  
-Gosto de código que funciona **e** de interface que dá gosto de usar.
-
----
-
-## 🚀 O que eu faço
-
-- Construo **back-ends sólidos** e bem estruturados  
-- Desenvolvo **front-ends modernos, limpos e funcionais**
-- Automatizo processos com **n8n** e integrações inteligentes
-- Trabalho com **dados, APIs e infraestrutura**
-- Aplico **IA** de forma prática (automação, agentes, análise, suporte a produto)
-
-Nada de projeto fake. Coisa que roda em produção.
+🚀 Software Developer focused on **Front-end UI**, **Back-end systems**, **Automation** and **Applied AI**.  
+I care about **how things work** and **how they look**.
 
 ---
 
-## 🧠 Stack & Ferramentas
+## 🧩 What I actually build
 
-### 🎨 Front-end / UI
+- 🎨 **Well-crafted front-ends** (clean UI, real UX, no visual noise)
+- ⚙️ **Back-ends that survive production**
+- 🔄 **Automations with n8n** that replace manual work
+- 🤖 **AI-powered flows** (agents, assistants, decision support)
+- 📊 **Data-driven dashboards & internal tools**
+
+No toy projects. Real usage.
+
+---
+
+## 🎨 Front-end / UI
+
 - **Vue.js**
-- Interfaces administrativas, dashboards e painéis
-- Foco em:
-  - hierarquia visual
-  - clareza
-  - fluidez
-  - experiência real do usuário
+- UI-focused dashboards & admin panels
+- Strong attention to:
+  - visual hierarchy
+  - spacing & typography
+  - usability > decoration
+  - consistency & flow
 
-> UI bonita não é detalhe.  
-> É performance humana.
+> Good UI reduces errors, support tickets and cognitive load.
 
 ---
 
-### 🧩 Back-end
+## 🧠 Back-end
+
 - **Laravel (PHP)**
   - APIs
   - CRMs
-  - sistemas internos
-  - regras de negócio
-  - filas e jobs
+  - business rules
+  - background jobs & queues
 - **Python**
-  - automações
-  - scripts
-  - dados
-  - integração com IA
+  - automation
+  - data processing
+  - AI integrations
+  - scripts that glue systems together
 
 ---
 
-### 🤖 Automação & IA
-- **n8n** (orquestração de fluxos)
-- Webhooks
-- Integrações entre sistemas, CRMs e WhatsApp
-- Uso de **IA/LLMs** para:
-  - automação de processos
-  - agentes internos
-  - apoio a decisões
-  - produtividade operacional
+## 🤖 Automation & AI
 
-IA como ferramenta.  
-Não como buzzword.
+- **n8n** for workflow orchestration
+- Webhooks & API integrations
+- WhatsApp & system automations
+- **LLMs / AI** used for:
+  - internal assistants
+  - process automation
+  - intelligent routing & analysis
+  - productivity, not hype
+
+AI is a tool, not the product.
 
 ---
 
-### 📊 Dados
+## 📊 Data
+
 - **PostgreSQL**
-- SQL de verdade
-- Estruturação de dados para:
-  - dashboards
-  - métricas
-  - relatórios operacionais
+- Real SQL (joins, filters, aggregations)
+- Data modeling for:
+  - operational dashboards
+  - metrics
+  - reports that people actually read
 
 ---
 
-### 🧱 Infraestrutura
+## 🧱 Infrastructure
+
 - **Linux**
 - **Docker / Docker Swarm**
-- VPS própria
-- Deploy controlado
-- Logs, redes, volumes e variáveis bem definidos
-
-Prefiro entender o stack  
-do que depender de botão mágico.
+- VPS hosting
+- Environment control > magic platforms
+- Logs, networks, volumes done properly
 
 ---
 
-## 🧠 Como eu penso produto
+## 🧠 How I think about products
 
-- Código sustenta o sistema  
-- UI sustenta o usuário  
-- UX ruim vira problema operacional  
-- Automação boa vira vantagem competitiva  
-
-Produto bom é equilíbrio entre **engenharia e experiência**.
-
----
-
-## 🧪 Projetos e contexto
-
-- CRMs e sistemas internos
-- Dashboards operacionais
-- Bots e automações
-- Produtos digitais com foco em processo, dados e escala
+- UI is not aesthetic — it’s **performance**
+- Automation is part of the product
+- UX problems become operational problems
+- Simplicity beats cleverness
+- Production reality > theory
 
 ---
 
-## 📫 Contato
+## 🧪 What you’ll find here
 
-📱 **WhatsApp:** (16) 98192-9199  
+- Internal tools
+- Automations
+- Dashboards
+- System glue code
+- Product-oriented experiments
 
 ---
 
-✨ *Build things that work.  
-Make them look good.  
-Automate what can be automated.*
+✨ *Build useful things.  
+Make them intuitive.  
+Automate the rest.*
